@@ -1,3 +1,6 @@
 .project-image {
     aspect-ratio: 3/3
 }
+body {
+    padding-top: 65px;
+}
