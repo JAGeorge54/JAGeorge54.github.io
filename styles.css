@@ -4,3 +4,6 @@
 body {
     padding-top: 65px;
 }
+.active {
+    color: #fff;
+}
